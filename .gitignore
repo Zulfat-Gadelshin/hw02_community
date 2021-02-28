@@ -16,6 +16,5 @@ __pycache__/
 *.sublime-workspace
 
 posts/static/
-posts/static/
-
+static/admin/css/vendor/autocomplete
 db.sqlite3
